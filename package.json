@@ -1,5 +1,5 @@
 {
-  "name": "@ellis/eslint-config",
+  "name": "@rsellis/eslint-config",
   "version": "1.0.0",
   "type": "module",
   "main": "eslint.config.js",
