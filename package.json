@@ -6,6 +6,14 @@
   "exports": {
     ".": "./eslint.config.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EIIis/eslint-config.git"
+  },
+  "homepage": "https://github.com/EIIis/eslint-config#readme",
+  "bugs": {
+    "url": "https://github.com/EIIis/eslint-config/issues"
+  },
   "peerDependencies": {
     "@typescript-eslint/eslint-plugin": ">=8",
     "@typescript-eslint/parser": ">=8",
